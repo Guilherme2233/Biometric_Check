@@ -32,4 +32,5 @@ google-services.json
 # Android Profiling
 *.hprof
 
-!D:\Área de Trabalho\Repositórios_GitHub\Biometric_Check\Download\output-metadata.json
+# Exceção para o APK
+!Download/app-debug.apk
